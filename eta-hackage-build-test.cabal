@@ -3,8 +3,8 @@
 
 name:                eta-hackage-build-test
 version:             0.0.9.0
-synopsis:            Test combinations of eta-hackage in build-depends
-description:         This project is just to test if something like 
+synopsis:            Check combinations of eta-hackage in build-depends
+description:         This project is just to check if something like 
                       etlas install --dependencies-only 
                      works. I use it to isolate problems with eta-hackage packages
                      encountered when playing with Eta.
